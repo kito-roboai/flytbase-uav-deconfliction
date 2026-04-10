@@ -1,0 +1,20 @@
+
+
+Step 1 — Virtual environment activate 
+
+cd /home/krishna_teja/flytbase_assignment
+source venv/bin/activate
+
+Step 2 — All 3 scenarios 
+
+python main.py --scenario 1
+python main.py --scenario 2
+python main.py --scenario 3
+
+Step 3 — Tests 
+
+python -m unittest discover -s tests -v
+
+Step 4 — Output files check 
+
+ls outputs/

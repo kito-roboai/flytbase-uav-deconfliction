@@ -60,7 +60,7 @@ Primary drone climbs from z=0 to z=50m. Simulated drone flies at a different alt
 | `scenario_4d_case_b_3d.png` | Isometric 3D path plot — altitude separation clearly visible |
 | `scenario_4d_case_b_anim.gif` | Animated version of the above |
 
-
+Note: For best experience, view the interactive HTML report locally in a browser.
 To view the full interactive report:
 
 1. Download the repository
